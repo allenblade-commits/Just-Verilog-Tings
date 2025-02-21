@@ -1,6 +1,6 @@
 # HDLBits Solutions 🚀  
 
-This repository contains my solutions for **[HDLBits](https://hdlbits.01xz.net/)** problems, with well-commented Verilog code and explanations.  
+This repository contains my solutions for some Verilog problems, with well-commented Verilog code and explanations.  
 
 ## 📌 Features  
 - ✅ **Well-commented Verilog solutions**  
