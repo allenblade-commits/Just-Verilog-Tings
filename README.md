@@ -1,4 +1,4 @@
-# HDLBits Solutions 🚀  
+# Verilog Coding Solutions 🚀  
 
 This repository contains my solutions for some Verilog problems, with well-commented Verilog code and explanations.  
 
